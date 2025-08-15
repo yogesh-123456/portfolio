@@ -74,16 +74,16 @@
   .services {
     align-items: start;
     gap: 70px;
-    margin: 20px 40px;
+    margin: 20px 30px;
   }
 
   .services-title h1 {
     padding: 0;
-    font-size: 50px;
+    font-size: 35px;
   }
 
   .services-title img {
-    width: 130px;
+    width: 80px;
     margin-right: -20px;
   }
 
@@ -98,11 +98,14 @@
   .services-format {
     width: 90%;
     max-width: 100%;
-    padding: 30px;
+    padding: 20px;
+  }
+  .services-format h2{
+    font-size: 24px;
   }
 
   .services-format p {
     line-height: 30px;
-    font-size: 16px;
+    font-size: 15px;
   }
 }
